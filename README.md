@@ -3,10 +3,8 @@
 Official source code for the paper:
 
 > **Low-Light Image Enhancement Using a Retinex-Based Variational Model With Weighted $L_p$ Norm Constraint**
-> Enping Hu, Yun Liu\*, Anzhi Wang, Babak Shiri, Wenqi Ren, Weisi Lin
 > *IEEE Transactions on Multimedia*, vol. 28, pp. 152–166, 2026.
 > DOI: [10.1109/TMM.2025.3618567](https://doi.org/10.1109/TMM.2025.3618567)
-> (\* Corresponding author)
 
 [English](#english) · [中文](#中文)
 
